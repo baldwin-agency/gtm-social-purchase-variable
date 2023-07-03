@@ -2,5 +2,5 @@ homepage: "https://www.baldwin.agency/"
 documentation: "https://github.com/baldwin-agency/gtm-social-purchase-variable/blob/main/README.md"
 versions:
   # Latest version
-  - sha: 817a6dd46099eff0a123489c7d0adb52b54d42db
+  - sha: fbe191e42018c1de0575b555f839bfc6d1a47ba8
     changeNotes: Initial release.
